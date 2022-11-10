@@ -12,6 +12,9 @@ module.exports = {
       fontFamily: {
         sans: ['Josefin Sans', 'sans-serig'],
         alata: ['Alata']
+      },
+      letterSpacing: {
+        widest: '.3em'
       }
     },
   },
